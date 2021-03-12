@@ -1,8 +1,19 @@
 h1 {
     color: green;
     font-size: 50px;
-    border: red dashed;
+    border: red groove;
     text-align: center;
     margin: 60px;
     padding: 40px
+}
+
+h3{
+    font-family: 'Trebuchet MS';
+    text-decoration: underline;
+}
+
+body{
+    background-image: url("https://img.freepik.com/vecteurs-libre/fond-blanc-elegant-lignes-brillantes_1017-17580.jpg?size=626&ext=jpg");
+    background-attachment: scroll;
+   
 }
