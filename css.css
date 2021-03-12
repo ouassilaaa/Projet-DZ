@@ -1,7 +1,7 @@
 h1 {
     color: green;
     font-size: 50px;
-    border: red groove;
+    border: red dashed;
     text-align: center;
     margin: 60px;
     padding: 40px
